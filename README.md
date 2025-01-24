@@ -50,7 +50,7 @@
 <h2> 👨🏻‍💻 About Me</h2>
 
 ```javascript
-const vinay = {
+const Harsh Kumar Sinha = {
     pronouns: "He" | "Him",
     location: "Nagpur, Maharashtra, India 🌏",
     education: [
@@ -72,7 +72,7 @@ const vinay = {
         "🤖 Deep Learning",
         "⚙️ Compiler Design"
     ],
-    2024Goals: [
+    2025Goals: [
         "🎯 Create 10+ Projects",
         "📚 Learn 5-10 New Technologies"
     ],
