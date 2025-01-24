@@ -13,9 +13,9 @@
 
 <!-- Profile Views and Other Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thevinaysagar&label=Profile%20views&color=0e75b6&style=flat" alt="thevinaysagar" />
-  <img src="https://img.shields.io/github/followers/TheVinaySagar?label=Followers&style=social" alt="followers" />
-  <img src="https://img.shields.io/github/stars/TheVinaySagar?label=Stars&style=social" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=Harsh-sinha42&label=Profile%20views&color=0e75b6&style=flat" alt="Harsh-sinha42" />
+  <img src="https://img.shields.io/github/followers/Harsh-sinha42?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/github/stars/Harsh-sinha42?label=Stars&style=social" alt="stars" />
 </p>
 
 <!-- Dynamic Quote -->
@@ -26,7 +26,7 @@
 <!-- Social Links with Animations -->
 <h3 align="center">Connect with me 🤝</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/TheVinaySagar/" target="_blank">
+<a href="https://www.linkedin.com/in/Harsh-sinha42/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://x.com/Vinay9520" target="_blank">
@@ -93,8 +93,8 @@ const Harsh Kumar Sinha = {
 </p>
 
 <p align="center">
-  <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=TheVinaySagar&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TheVinaySagar&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=Harsh-sinha42&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Harsh-sinha42&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <!-- Language Stats -->
@@ -152,16 +152,16 @@ const Harsh Kumar Sinha = {
 <!-- Contribution Graph -->
 <h2>📈 Contribution Graph</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheVinaySagar&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-sinha42&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </p>
 
 <!-- Snake Animation -->
 <div align = "center">
   <h2>🐍 Contribution Snake</h2>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TheVinaySagar/TheVinaySagar/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/TheVinaySagar/TheVinaySagar/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/TheVinaySagar/TheVinaySagar/blob/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Harsh-sinha42/Harsh-sinha42/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Harsh-sinha42/Harsh-sinha42/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/Harsh-sinha42/Harsh-sinha42/blob/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
@@ -174,7 +174,7 @@ const Harsh Kumar Sinha = {
 <div align = "center">
  
 **Visitors Count**  
-![VisitorCount](https://profile-counter.glitch.me/{TheVinaySagar}/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/{Harsh-sinha42}/count.svg)
 
 </div>
 
