@@ -43,7 +43,7 @@
 <!-- GitHub Trophies -->
 <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thevinaysagar&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=-1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Harsh-sinha42&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=-1" />
 </p>
 
 <!-- About Me Section -->
