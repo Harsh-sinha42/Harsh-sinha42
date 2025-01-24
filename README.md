@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280" />
 </p>
 
 <!-- Typing SVG -->
@@ -99,7 +99,7 @@ const Harsh Kumar Sinha = {
 
 <!-- Language Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-sinha42&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" />
   </p>
   
   <!-- Skills Section with Icons -->
