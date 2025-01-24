@@ -89,7 +89,7 @@ const Harsh Kumar Sinha = {
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=TheVinaySagar&cc=000&tc=fff&ic=fff&bc=000" alt="Stats" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=Harsh-sinha42&cc=000&tc=fff&ic=fff&bc=000" alt="Stats" />
 </p>
 
 <p align="center">
@@ -99,7 +99,7 @@ const Harsh Kumar Sinha = {
 
 <!-- Language Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheVinaySagar&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" />
   </p>
   
   <!-- Skills Section with Icons -->
